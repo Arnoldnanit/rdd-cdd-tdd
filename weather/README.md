@@ -1,7 +1,7 @@
 # cli-weather
 
 #Fork the project via github
-#Clone the project git clone https://github.com/arnoldnanit/rdd-cdd-tdd
+#Clone the project git clone 
 
 
 #installation 
