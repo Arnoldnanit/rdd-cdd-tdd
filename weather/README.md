@@ -8,4 +8,4 @@ $ npm install public-ip
 $ npm install chalk
 $ npm install cli-table
 $ npm install minimist
-![alt tag](http://www.pihomeserver.fr/wp-content/uploads/2013/07/meteo1.jpg)
+![alt tag](http://www.ameliepepin.com/static/images/documents/miniatures/4f6e2120f65b4e2b83246ba6cca38878tmb.png)
